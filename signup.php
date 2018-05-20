@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>  
-           <title>Webstech Tutorial | Simple Login System</title>  
+           <title>Webstech Tutorial | Toggle Sign Up </title>  
 		   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" />
 		   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
      </head>  
